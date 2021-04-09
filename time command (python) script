@@ -1,0 +1,11 @@
+import time
+
+print ("example")
+time.sleep ("number")
+print ("dt") 
+
+
+complete example
+time.sleep ("NUMER_HERE")
+
+Thank You for using HtmlPy!!
