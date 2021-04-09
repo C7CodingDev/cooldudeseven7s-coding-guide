@@ -1,0 +1,11 @@
+html printing commands 
+<H1>text_here
+<H2>text_here
+<H3>text_here
+<H4>text_here
+<H5>text_here
+<H6>text_here
+<TITLE>text_here
+<HEADER>text_here
+python printing commands
+PRINT ("text_here")
