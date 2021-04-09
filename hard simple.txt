@@ -1,0 +1,5 @@
+print ("_")
+=_
+prnt =error
+print ("prnt")
+=error
